@@ -5,9 +5,9 @@ SITE = 'https://b2c.passport.rt.ru'
 
 # Валидные данные для авторизации
 USER_EMAIL = 'VALID_EMAIL'
-USER_PHONE = 'VALID_PHONE (+79876543210)'
+USER_PHONE = 'VALID_PHONE'
 PASSWORD = 'VALID_PASSWORD'
 
 # Невалидные данные для авторизации
-fake = Faker()
-invalid_psswrd = fake.password()
+invalid = Faker()
+invalid_psswrd = invalid.password()

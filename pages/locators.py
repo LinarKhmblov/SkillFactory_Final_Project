@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from pages.auth_page import AuthPage
 from selenium import webdriver
 
+
 class Locators(AuthPage):
     """Локаторы страницы авторизации"""
 

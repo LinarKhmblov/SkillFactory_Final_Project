@@ -33,7 +33,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage.test001_authorization_page_is_open">
+  <component name="RunManager" selected="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage.test003_valid_authorization">
     <configuration name="Python tests for tests_authorization_page.TestAuth" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SkillFactory_Final_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +76,20 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for tests_authorization_page.TestAuthorizationPage.test003_valid_authorization" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillFactory_Final_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_authorization_page.TestAuthorizationPage.test003_valid_authorization&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for tests_authorization_page.TestAuthorizationPage.test012_open_password_recovery_form" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SkillFactory_Final_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,27 +104,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for tests_authorization_page.test001_authorization_page_is_open" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="SkillFactory_Final_Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_authorization_page.test001_authorization_page_is_open&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage.test003_valid_authorization" />
         <item itemvalue="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage.test001_authorization_page_is_open" />
         <item itemvalue="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage.test012_open_password_recovery_form" />
         <item itemvalue="Python tests.Python tests for tests_authorization_page.TestAuthorizationPage" />
         <item itemvalue="Python tests.Python tests for tests_authorization_page.TestAuth" />
-        <item itemvalue="Python tests.Python tests for tests_authorization_page.test001_authorization_page_is_open" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/tests_authorization_page.py</url>
-          <line>191</line>
+          <line>190</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -144,7 +144,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/tests_authorization_page.py</url>
-          <line>99</line>
+          <line>98</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
